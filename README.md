@@ -1,2 +1,2 @@
-<p>SkillEye provides a frontend, database and API for <a href="https://github.com/philihp/openskill.js">openskill.js</a>, an implentation of the <a href="https://www.csie.ntu.edu.tw/~cjlin/papers/online_ranking/online_journal.pdf">Weng-Lin rating system</a>.</p>
+<p>SkillFed is an application enabling skill ranking throughout the Fediverse using  <a href="https://github.com/philihp/openskill.js">openskill.js</a>, an implentation of the <a href="https://www.csie.ntu.edu.tw/~cjlin/papers/online_ranking/online_journal.pdf">Weng-Lin rating system</a>.</p>
 <p>This project allows an application, such as a web frontend, mobile application or game to record and display scores from a game and provide skill ratings, using a RESTful API.</p>
